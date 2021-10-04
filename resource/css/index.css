@@ -1,0 +1,110 @@
+.hd{
+    margin-left: 24px;
+    margin-right: 24px;
+    height: 64px;
+    width: 100%;
+}
+
+
+li{
+    padding-right:16px;
+    color: black;
+}
+.container{
+    display: grid;
+}
+
+.colmar{
+    display: flex;
+    align-items: center;
+}
+
+
+.firstsec{
+    display: flex;
+    align-items: center;
+    background-color: rgb(187, 182, 182);
+    font-size: 32px;
+}
+
+#banner{
+    overflow: hidden;
+    float: left;
+    padding: 32px 24px;
+    display: inline;
+    margin: 32px 24px;  
+}
+
+.text1{
+    
+    text-align: left;
+   
+    font-size: 50px;
+}
+.start{
+   
+    background-color:gray;
+    padding-left: 8px 0;
+    
+}
+.secsec{
+    background-color:white;
+    padding: 32px 24px;
+   
+}
+.second{
+    padding-left: 24px;
+    padding-bottom: 32px;
+}
+.secbody{
+    text-align: left;
+}
+.row1{
+   
+    padding:  16px 0 16px 16px;
+    text-align: center;
+}
+.cardtext1{
+    padding: 8px 0px 8px 0px;
+}
+
+.threeimage{
+    width: 40%;
+}
+.thisec{
+    background-color:lightgray;   
+    padding: 32px 72px;
+}
+.thirow{
+    padding-bottom: 32px;
+    
+}
+.thirdbody{
+    margin: 16px 16px 24px 0px;
+}
+.startlea{
+    text-align: center;
+    padding-top: 32px;
+    font-weight: bold;
+    font-size:larger;
+    padding-bottom: 32px;
+}
+.foursec{
+    background-color:white;
+    padding-left: 24px;
+    padding-top: 32px;
+}
+
+.row3{
+  
+ }
+
+.row2{
+    padding:  16px;
+    
+}
+.card-columns{
+    
+    margin: 32px 72px 32px 72px; 
+   
+}
