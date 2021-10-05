@@ -3,9 +3,12 @@
     margin-right: 24px;
     height: 64px;
     width: 100%;
+    
 }
 
-
+.nav-link{
+color: black;
+}
 li{
     padding-right:16px;
     color: black;
@@ -28,24 +31,25 @@ li{
 }
 
 #banner{
-    overflow: hidden;
-    float: left;
+    /* overflow: hidden;
+    float: left; */
     padding: 32px 24px;
     display: inline;
     margin: 32px 24px;  
 }
 
 .text1{
-    
-    text-align: left;
-   
-    font-size: 50px;
-}
+    font-size: 25px;
+} 
 .start{
    
     background-color:gray;
     padding-left: 8px 0;
     
+}
+#starthere{
+    align-items: center;
+    width:60%;
 }
 .secsec{
     background-color:white;
